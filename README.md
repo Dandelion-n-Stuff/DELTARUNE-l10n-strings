@@ -1,0 +1,1 @@
+# DELTARUNE-l10n-strings
