@@ -1,5 +1,5 @@
 {
-  "scr_text_slash_scr_text_gml_3087_0": "* (มันคือประตู^1)&* (คุณจะเดินทางไปที่ไหน?)/",
+  "scr_text_slash_scr_text_gml_3087_0": "* (ประตู^1)&* (คุณจะเดินทางไปที่ไหน?)/",
   "scr_text_slash_scr_text_gml_780_0": "\\C2",
   "scr_text_slash_scr_text_gml_3083_0": " #ทุ่งหญ้า",
   "scr_text_slash_scr_text_gml_3084_0": " #ผืนป่า",
@@ -17,7 +17,7 @@
   "scr_text_slash_scr_text_gml_1460_0": "* ... อ๋อ/",
   "scr_text_slash_scr_text_gml_1462_0": "* เป็นอะไร^1 มื้อเช้าฉันกินแค่ชอล์กเอง!/",
   "scr_text_slash_scr_text_gml_1464_0": "* ส่วนข้าก็ไม่ได้กินอะไรเลยด้วย!/",
-  "scr_text_slash_scr_text_gml_1466_0": "* ขอโทษนะ^1 พวกคุณกำลังทานอะไรกันอยู่หรือ...?/",
+  "scr_text_slash_scr_text_gml_1466_0": "* ขอโทษน^1ะ พวกคุณกำลังทานอะไรกันอยู่เหรอ...?/",
   "scr_text_slash_scr_text_gml_1468_0": "* ก็แค่สมบัติประจำวัน^1 &ที่ข้าซ่อนไว้ในโพรงตอไม้นี่น่ะ/",
   "scr_text_slash_scr_text_gml_1470_0": "* แล้วมันคือ...?/",
   "scr_text_slash_scr_text_gml_1472_0": "* อยากรู้ก็ลองหม่ำเองสิ^1 สหายสุดโปรด/",
@@ -125,5 +125,6 @@
   "scr_text_slash_scr_text_gml_3016_0": "\\E3* ไว้เจอกัน!/%",
   "scr_text_slash_scr_text_gml_3205_0": "* (มีชายอยู่ตรงนี้)/",
   "scr_text_slash_scr_text_gml_3206_0": "* (เขาเสนออะไรบางอย่างให้คุณ)/",
-  "scr_text_slash_scr_text_gml_3214_0": "* (คุณได้รับ \"ไข่\")/%"
+  "scr_text_slash_scr_text_gml_3214_0": "* (คุณได้รับ \"ไข่\")/%",
+  "scr_text_slash_scr_text_gml_3220_0": "* (และชายก็ไม่ต้องอยู่ที่นี่)/%"
 }
